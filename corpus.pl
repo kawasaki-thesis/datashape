@@ -4,7 +4,8 @@ use utf8;
 
 #binmode(STDOUT,":encoding(utf-8)");
 
-for($i=0; $i<5; $i++){
+$fnum=5;
+for($i=0; $i<$fnum; $i++){
 	$j=0;
 	$inputfile="C:/Users/sayak/work/datashape/data/test" . $i . ".txt";
 	
@@ -16,8 +17,7 @@ for($i=0; $i<5; $i++){
 		@list = split(/\t/);
 		
 		if($list[1] =~ /NN|VV|JJ|NP/){
-			$words[$i][$j] = "$list[2]\n";
-			print $words[$i][$j];
+			$words[$i][$j] = $list[2];
 			$j++;
 		}
 	}
@@ -25,14 +25,11 @@ for($i=0; $i<5; $i++){
 	close(IN);
 }
 
-for($i=0; $i<5; $i++){
-	print $i;
-	print "file------------------\n";
-	foreach (@words[$i]){
-		print "@$_\n";
-	}
-}
-#$text = $meisi[int(rand($i))] . "は" . $meisi[int(rand($i))] . "の上に" . $meisi[int(rand($i))] . "を作らず";
 
+
+foreach (@words){
+	print "(" . join(",", @{$_}) . ")\n";
+	#jをカンマで横に並べてi行表示
+}
 
 #end
