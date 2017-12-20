@@ -24,15 +24,22 @@ for($i=0; $i<$fnum; $i++){
 	close(IN);
 }
 
-$wordnum=0;
 for($i=0; $i<$fnum; $i++){
 	for($j=0; $j<=$#{$words[$i]}; $j++){
-		$corpus[$wordnum][0]= '\'' . $words[$i][$j] . '\'';
-		for($k=1; $k<=$fnum; $k++){
-			$corpus[$wordnum][$k]=0;
+		$flag=0;
+		foreach(@corpus){
+			if(@{$_}[0] eq $words[$i][$j]){
+				$flag=1;
+				$corpus[@{$_}[i]][($i+1)]++;
+				break;
+			}
 		}
-		$corpus[$wordnum][($i+1)]++;
-		$wordnum++;
+		if(flag==0){
+			#$str='\'' . $words[$i][$j] . '\'';
+			$str=$words[$i][$j];
+			push(@corpus, [$str,0,0,0,0,0,0,0,0,0,0]);
+			$corpus[$#corpus][($i+1)]++;
+		}
 	}
 }
 
