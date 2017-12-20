@@ -1,0 +1,3 @@
+plaster	NN	plaster
+and	CC	and
+in	IN	in

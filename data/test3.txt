@@ -1,0 +1,6 @@
+also	RB	also
+combines	VVZ	combine
+its	PP$	its
+effective	JJ	effective
+functional	JJ	functional
+role	NN	role

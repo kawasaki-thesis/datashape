@@ -1,0 +1,5 @@
+construction	NN	construction
+in	IN	in
+wood	NN	wood
+.	SENT	.
+It	PP	it

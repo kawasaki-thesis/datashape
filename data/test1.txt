@@ -1,0 +1,8 @@
+Criterion	NN	criterion
+i	NP	i
+Himeji-jo	NP	Himeji-jo
+is	VBZ	be
+a	DT	a
+masterpiece	NN	masterpiece
+of	IN	of
+

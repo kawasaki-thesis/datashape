@@ -1,0 +1,8 @@
+wi	NN	wi
+th	NN	th
+great	JJ	great
+aesthetic	JJ	aesthetic
+appeal	NN	appeal
+,	,	,
+both	CC	both
+in	IN	in
