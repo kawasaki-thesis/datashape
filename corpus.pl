@@ -10,6 +10,7 @@ $fnum=10;
 #各ファイルから名詞、固有名詞、動詞、形容詞を抽出して格納
 for($i=0; $i<$fnum; $i++){
 	$j=0;
+	#$inputfile="C:/Users/sayak/work/datashape/data/test" . $i . ".txt";
 	$inputfile="C:/Users/sayak/work/datashape/data/class" . ($i+1) . ".txt";
 	
 	open(IN,$inputfile) || die "$!";
@@ -34,12 +35,11 @@ for($i=0; $i<$fnum; $i++){
 		foreach(@corpus){
 			if(@{$_}[0] eq $words[$i][$j]){
 				$flag=1;
-				$corpus[@{$_}[i]][($i+1)]++;
+				@{$_}[($i+1)]++;
 				break;
 			}
 		}
 		if($flag==0){
-			#$str='\'' . $words[$i][$j] . '\'';
 			$str=$words[$i][$j];
 			push(@corpus, [$str,0,0,0,0,0,0,0,0,0,0]);
 			$corpus[$#corpus][($i+1)]++;
