@@ -34,7 +34,7 @@ for($i=0; $i<$fnum; $i++){
 				break;
 			}
 		}
-		if(flag==0){
+		if($flag==0){
 			#$str='\'' . $words[$i][$j] . '\'';
 			$str=$words[$i][$j];
 			push(@corpus, [$str,0,0,0,0,0,0,0,0,0,0]);
