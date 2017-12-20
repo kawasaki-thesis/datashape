@@ -4,17 +4,18 @@ use utf8;
 
 #binmode(STDOUT,":encoding(utf-8)");
 
+$inputfile='C:\Users\sayak\work\datashape\himejijo_an.txt';
 
-open(IN,"himejijo_an.txt") || die "$!";
+open(IN,$inputfile) || die "$!";
 #binmode(IN,":encoding(euc-jp)");
 
 while(<IN>){
 	chomp;
 	@list = split(/\t/);
 	
-	if(@list[1] =^ /NN|VV|JJ|NP/){
+	if(@list[1] =~ /NN|VV|JJ|NP/){
 		print $list[2] . "\n";
-		$meisi[$i] = $list[0];
+		#$meisi[$i] = $list[0];
 		$i++;
 	}
 }
