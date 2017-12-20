@@ -1,856 +1,856 @@
-INSERT INTO heritage_corpus VALUES('Himeji-jo', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('masterpiece', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('construction', 0.5, 0.5, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('wood', 0.5, 0, 0, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('combine', 0.5, 0, 0, 0.25, 0, 0, 0, 0, 0, 0.25);
-INSERT INTO heritage_corpus VALUES('effective', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('functional', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('role', 0.25, 0.5, 0.25, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('great', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('aesthetic', 0.5, 0, 0, 0, 0, 0, 0.5, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('appeal', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('use', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('white-painted', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('plaster', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('subtlety', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('relationship', 0.5, 0, 0, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('building', 0.4, 0.2, 0, 0.4, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('mass', 0.5, 0, 0, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('multiple', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('roof', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('layer', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Buddhist', 0.142857142857143, 0.142857142857143, 0.142857142857143, 0.285714285714286, 0, 0.285714285714286, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('monument', 0.125, 0.5, 0, 0.375, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Horyu-ji', 0.5, 0, 0, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Area', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('wooden', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('architecture', 0.0625, 0.5, 0, 0.375, 0, 0.0625, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('overall', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('design', 0.166666666666667, 0.333333333333333, 0, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('decoration', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('configuration', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('shrine', 0.142857142857143, 0.214285714285714, 0.0714285714285714, 0.428571428571429, 0, 0.142857142857143, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('ltsukushima-jinja', 0.5, 0, 0, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('present', 0.333333333333333, 0, 0.666666666666667, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('excellent', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('architectural', 0.235294117647059, 0.294117647058824, 0.0588235294117647, 0.0588235294117647, 0, 0.352941176470588, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('scene', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('line', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('aristocratic', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('residential', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('style', 0.2, 0, 0, 0.8, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('period', 0.166666666666667, 0, 0.333333333333333, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('outstanding', 0.117647058823529, 0, 0, 0.352941176470588, 0.0588235294117647, 0.294117647058824, 0.0588235294117647, 0, 0.117647058823529, 0);
-INSERT INTO heritage_corpus VALUES('work', 0.153846153846154, 0.307692307692308, 0.0769230769230769, 0, 0, 0.461538461538462, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('manmade', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('natural', 0.5, 0, 0.25, 0, 0, 0, 0.25, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('element', 0.5, 0, 0, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('exhibit', 0.333333333333333, 0.666666666666667, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('artistic', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('technical', 0.5, 0.5, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('merit', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('site', 0.111111111111111, 0.222222222222222, 0.333333333333333, 0.166666666666667, 0.0555555555555556, 0.111111111111111, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('sea', 0.111111111111111, 0.111111111111111, 0, 0, 0, 0.111111111111111, 0, 0, 0.333333333333333, 0.333333333333333);
-INSERT INTO heritage_corpus VALUES('backdrop', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('impressive', 0.5, 0, 0, 0, 0, 0, 0.5, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('mountain', 0.111111111111111, 0.111111111111111, 0.111111111111111, 0, 0.111111111111111, 0.222222222222222, 0.111111111111111, 0, 0.222222222222222, 0);
-INSERT INTO heritage_corpus VALUES('Nikko', 0.25, 0, 0, 0.5, 0, 0.25, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('temple', 0.0714285714285714, 0.214285714285714, 0.0714285714285714, 0.428571428571429, 0, 0.214285714285714, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('reflection', 0.5, 0, 0, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('genius', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('aspect', 0.25, 0.25, 0, 0.25, 0, 0.25, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('reinforce', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('harmonious', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('integration', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('forest', 0.0666666666666667, 0, 0, 0, 0.0666666666666667, 0.133333333333333, 0, 0, 0.733333333333333, 0);
-INSERT INTO heritage_corpus VALUES('lay', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('people', 0.333333333333333, 0.333333333333333, 0, 0, 0.333333333333333, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Le', 0.1, 0.4, 0, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Corbusier', 0.1, 0.4, 0, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('represent', 0.2, 0.2, 0, 0.4, 0, 0.2, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('human', 0.25, 0.25, 0, 0.25, 0, 0.25, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('creative', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('provide', 0.142857142857143, 0.142857142857143, 0.142857142857143, 0.142857142857143, 0, 0.142857142857143, 0, 0, 0.285714285714286, 0);
-INSERT INTO heritage_corpus VALUES('response', 0.5, 0, 0, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('certain', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('fundamental', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('social', 0.2, 0.2, 0, 0.2, 0.2, 0.2, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('challenge', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('20th', 0.333333333333333, 0.666666666666667, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('century', 0.0526315789473684, 0.526315789473684, 0.157894736842105, 0.105263157894737, 0, 0.157894736842105, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('early', 0, 0.625, 0, 0.25, 0, 0.125, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Japan', 0, 0.428571428571429, 0.0952380952380952, 0.19047619047619, 0.0476190476190476, 0.0952380952380952, 0, 0, 0.142857142857143, 0);
-INSERT INTO heritage_corpus VALUES('date', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('introduction', 0, 0.333333333333333, 0.333333333333333, 0, 0, 0.333333333333333, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Buddhism', 0, 0.428571428571429, 0, 0, 0, 0.571428571428571, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('country', 0, 0.666666666666667, 0, 0.333333333333333, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('profound', 0, 0.8, 0, 0.2, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('influence', 0, 0.5, 0, 0.25, 0, 0.125, 0, 0, 0.125, 0);
-INSERT INTO heritage_corpus VALUES('subsequent', 0, 0.5, 0, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('religious', 0, 0.375, 0.25, 0, 0, 0.375, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Kyoto', 0, 0.5, 0, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('main', 0, 0.333333333333333, 0.333333333333333, 0, 0, 0, 0, 0, 0.333333333333333, 0);
-INSERT INTO heritage_corpus VALUES('centre', 0, 0.428571428571429, 0.142857142857143, 0, 0, 0.285714285714286, 0, 0, 0.142857142857143, 0);
-INSERT INTO heritage_corpus VALUES('evolution', 0, 0.5, 0.25, 0, 0, 0, 0, 0, 0.25, 0);
-INSERT INTO heritage_corpus VALUES('secular', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('garden', 0, 0.75, 0, 0.125, 0, 0.125, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('8th', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('17th', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('such', 0, 0.25, 0, 0, 0.25, 0, 0, 0, 0.25, 0.25);
-INSERT INTO heritage_corpus VALUES('play', 0, 0.5, 0.5, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('decisive', 0, 0.333333333333333, 0, 0.666666666666667, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('creation', 0, 0.5, 0, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Japanese', 0, 0.333333333333333, 0.0555555555555556, 0.166666666666667, 0, 0.166666666666667, 0.111111111111111, 0, 0.166666666666667, 0);
-INSERT INTO heritage_corpus VALUES('cultural', 0, 0.555555555555556, 0.222222222222222, 0.111111111111111, 0, 0.111111111111111, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('tradition', 0, 0.444444444444444, 0.444444444444444, 0, 0, 0.111111111111111, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('case', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('particular', 0, 0.5, 0, 0, 0, 0, 0, 0, 0, 0.5);
-INSERT INTO heritage_corpus VALUES('effect', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('rest', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('world', 0, 0.142857142857143, 0, 0.142857142857143, 0, 0.428571428571429, 0, 0, 0, 0.285714285714286);
-INSERT INTO heritage_corpus VALUES('19th', 0, 0.5, 0.25, 0.25, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Itsukushima-jinja', 0, 0.666666666666667, 0, 0.333333333333333, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('general', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Shinto', 0, 0.2, 0.2, 0.2, 0, 0.4, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('invaluable', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('information', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('understanding', 0, 0.5, 0, 0, 0, 0, 0, 0, 0.5, 0);
-INSERT INTO heritage_corpus VALUES('evolve', 0, 0.5, 0.5, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('spiritual', 0, 0.2, 0.2, 0, 0.2, 0.4, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('culture', 0, 0.4, 0.4, 0.2, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('concept', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('scenic', 0, 0.666666666666667, 0, 0, 0, 0, 0.333333333333333, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('beauty', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('important', 0, 0.25, 0, 0, 0, 0.125, 0, 0, 0.375, 0.25);
-INSERT INTO heritage_corpus VALUES('setting', 0, 0.333333333333333, 0, 0.333333333333333, 0, 0, 0.333333333333333, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('central', 0, 0.25, 0, 0, 0, 0, 0.25, 0, 0.5, 0);
-INSERT INTO heritage_corpus VALUES('part', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('trinity', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('foreground', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('background', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('recognize', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('standard', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('other', 0, 0.333333333333333, 0, 0, 0, 0.166666666666667, 0, 0, 0.5, 0);
-INSERT INTO heritage_corpus VALUES('example', 0, 0.0769230769230769, 0.0769230769230769, 0.384615384615385, 0, 0.153846153846154, 0.0769230769230769, 0, 0.230769230769231, 0);
-INSERT INTO heritage_corpus VALUES('come', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('understand', 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('historic', 0, 0.333333333333333, 0, 0.333333333333333, 0.333333333333333, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Ancient', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Nara', 0, 0.25, 0.25, 0.25, 0, 0.25, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('bear', 0, 0.333333333333333, 0.166666666666667, 0, 0.166666666666667, 0, 0, 0, 0.166666666666667, 0.166666666666667);
-INSERT INTO heritage_corpus VALUES('exceptional', 0, 0.375, 0.375, 0, 0, 0.25, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('witness', 0, 0.666666666666667, 0, 0, 0.333333333333333, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('art', 0, 0.25, 0.25, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('result', 0, 0.3, 0.2, 0, 0.2, 0.1, 0, 0, 0.2, 0);
-INSERT INTO heritage_corpus VALUES('link', 0, 0.5, 0.5, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('China', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Korea', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('future', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('development', 0, 0.4, 0.2, 0.1, 0, 0.1, 0, 0, 0.2, 0);
-INSERT INTO heritage_corpus VALUES('several', 0, 0.333333333333333, 0, 0, 0, 0, 0.333333333333333, 0, 0, 0.333333333333333);
-INSERT INTO heritage_corpus VALUES('Ryukyu', 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('island', 0, 0.142857142857143, 0.285714285714286, 0, 0, 0, 0.285714285714286, 0, 0.285714285714286, 0);
-INSERT INTO heritage_corpus VALUES('serve', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('economic', 0, 0.2, 0.4, 0.2, 0.2, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('interchange', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('south-east', 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Asia', 0, 0.666666666666667, 0, 0, 0, 0.111111111111111, 0, 0, 0.222222222222222, 0);
-INSERT INTO heritage_corpus VALUES('demonstrate', 0, 0.666666666666667, 0.166666666666667, 0, 0, 0.166666666666667, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('survive', 0, 0.142857142857143, 0, 0.285714285714286, 0.428571428571429, 0.142857142857143, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('form', 0, 0.1, 0.4, 0.2, 0, 0.2, 0, 0, 0.1, 0);
-INSERT INTO heritage_corpus VALUES('landscape', 0, 0.2, 0, 0.2, 0.4, 0.2, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Kii', 0, 0.25, 0.25, 0.25, 0, 0.25, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Mountains', 0, 0.25, 0.25, 0.25, 0, 0.25, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('unique', 0, 0.285714285714286, 0.142857142857143, 0.285714285714286, 0, 0.142857142857143, 0, 0, 0.142857142857143, 0);
-INSERT INTO heritage_corpus VALUES('fusion', 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Shintoism', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('illustrate', 0, 0.428571428571429, 0, 0.142857142857143, 0, 0, 0, 0, 0.428571428571429, 0);
-INSERT INTO heritage_corpus VALUES('East', 0, 0.8, 0, 0.2, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Age', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Discovery', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('16th', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('large', 0, 0.2, 0, 0.2, 0.2, 0, 0.2, 0, 0.2, 0);
-INSERT INTO heritage_corpus VALUES('production', 0, 0.2, 0.2, 0.2, 0.4, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('silver', 0, 0.333333333333333, 0, 0, 0.666666666666667, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Iwami', 0, 0.5, 0, 0, 0.5, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Ginzan', 0, 0.5, 0, 0, 0.5, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Silver', 0, 0.5, 0, 0, 0.5, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Mine', 0, 0.5, 0, 0, 0.5, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('significant', 0, 0.25, 0, 0.25, 0, 0.25, 0, 0, 0.25, 0);
-INSERT INTO heritage_corpus VALUES('commercial', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('exchange', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('trading', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Europe', 0, 0.666666666666667, 0.333333333333333, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Pure', 0, 0.25, 0, 0, 0, 0.75, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Land', 0, 0.25, 0, 0, 0, 0.75, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Hiraizumi', 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('remarkable', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('way', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('introduce', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('basis', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('ancient', 0, 0.166666666666667, 0.333333333333333, 0.166666666666667, 0, 0.333333333333333, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('nature', 0, 0.285714285714286, 0, 0.142857142857143, 0, 0.571428571428571, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('worship', 0, 0.1, 0.5, 0.1, 0, 0.3, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('develop', 0, 0.5, 0.25, 0, 0, 0, 0, 0, 0.25, 0);
-INSERT INTO heritage_corpus VALUES('planning', 0, 0.5, 0, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('city', 0, 0.5, 0, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Kamakura', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('base', 0, 0.5, 0.25, 0.25, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Chuson-ji', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Tomioka', 0, 0.666666666666667, 0, 0.333333333333333, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('mill', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('successful', 0, 0.5, 0.5, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('transfer', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('French', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('industrial', 0, 0.444444444444444, 0, 0.555555555555556, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('sericultural', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('technique', 0, 0.333333333333333, 0, 0.333333333333333, 0, 0.333333333333333, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('technological', 0, 0.25, 0.25, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('take', 0, 0.666666666666667, 0, 0, 0, 0, 0, 0, 0.333333333333333, 0);
-INSERT INTO heritage_corpus VALUES('place', 0, 0.666666666666667, 0, 0, 0, 0, 0, 0, 0.333333333333333, 0);
-INSERT INTO heritage_corpus VALUES('context', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('long', 0, 0.5, 0, 0, 0.5, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('regional', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('silkworm', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('farming', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('renew', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('turn', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('become', 0, 0.666666666666667, 0, 0.333333333333333, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('improvement', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('model', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('enshrine', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Japan�fs', 0, 0.5, 0.25, 0.25, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('global', 0, 0.666666666666667, 0, 0, 0, 0, 0, 0, 0.333333333333333, 0);
-INSERT INTO heritage_corpus VALUES('raw', 0, 0.5, 0, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('silk', 0, 0.5, 0, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('market', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('beginning', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('advent', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('shared', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('international', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('sericulture', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Sites', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Meiji', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Industrial', 0, 0.5, 0.5, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Revolution', 0, 0.5, 0.5, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('process', 0, 0.181818181818182, 0, 0, 0, 0, 0, 0, 0.818181818181818, 0);
-INSERT INTO heritage_corpus VALUES('feudal', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('seek', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('technology', 0, 0.4, 0.4, 0.2, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Western', 0, 0.2, 0, 0.6, 0, 0.2, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('America', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('middle', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('adopt', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('adapt', 0, 0.5, 0, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('satisfy', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('specific', 0, 0.25, 0, 0.25, 0, 0.25, 0, 0, 0, 0.25);
-INSERT INTO heritage_corpus VALUES('domestic', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('need', 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('enable', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('world-ranking', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('nation', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('idea', 0, 0.25, 0, 0, 0, 0.75, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('know-how', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('equipment', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('short', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('space', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('time', 0, 0.25, 0.5, 0, 0, 0.25, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('unprecedented', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('emergence', 0, 0.5, 0, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('autonomous', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('field', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('heavy', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('industry', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('impact', 0, 0.666666666666667, 0, 0, 0, 0.333333333333333, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('value', 0, 0.333333333333333, 0, 0.333333333333333, 0.333333333333333, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('worldwide', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('scale', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('relation', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('birth', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Modern', 0, 0.25, 0, 0, 0, 0.75, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Movement', 0, 0.333333333333333, 0, 0, 0, 0.666666666666667, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('revolutionize', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('pioneer', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('manner', 0, 0.333333333333333, 0, 0.333333333333333, 0, 0.333333333333333, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('invention', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('new', 0, 0.666666666666667, 0, 0, 0, 0.333333333333333, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('language', 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('make', 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('break', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('past', 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('mark', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('major', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('trend', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('modern', 0, 0.333333333333333, 0, 0, 0, 0.666666666666667, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('purism', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('brutalism', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('sculptural', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('reach', 0, 0.5, 0, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('continent', 0, 0.5, 0, 0, 0, 0, 0, 0, 0, 0.5);
-INSERT INTO heritage_corpus VALUES('phenomenon', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('history', 0, 0.25, 0, 0.25, 0.25, 0, 0, 0, 0.25, 0);
-INSERT INTO heritage_corpus VALUES('Sacred', 0, 0.5, 0.5, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Island', 0, 0.375, 0.5, 0, 0, 0, 0.125, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Okinoshima', 0, 0.2, 0.8, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('different', 0, 0.333333333333333, 0.333333333333333, 0, 0, 0, 0, 0, 0.333333333333333, 0);
-INSERT INTO heritage_corpus VALUES('polity', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('4th', 0, 0.5, 0.5, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('9th', 0, 0.333333333333333, 0.666666666666667, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('evident', 0, 0.5, 0, 0, 0, 0, 0, 0, 0.5, 0);
-INSERT INTO heritage_corpus VALUES('abundant', 0, 0.5, 0, 0, 0.5, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('find', 0, 0.333333333333333, 0, 0, 0, 0, 0.333333333333333, 0, 0.333333333333333, 0);
-INSERT INTO heritage_corpus VALUES('object', 0, 0.5, 0.25, 0, 0, 0.25, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('variety', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('origin', 0, 0.5, 0, 0, 0, 0, 0, 0, 0.5, 0);
-INSERT INTO heritage_corpus VALUES('deposit', 0, 0.333333333333333, 0.666666666666667, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('ritual', 0, 0.333333333333333, 0.666666666666667, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('safe', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('navigation', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('perform', 0, 0.5, 0.5, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('change', 0, 0.285714285714286, 0.285714285714286, 0, 0.142857142857143, 0, 0, 0, 0.285714285714286, 0);
-INSERT INTO heritage_corpus VALUES('distribution', 0, 0.5, 0, 0, 0, 0, 0, 0, 0.5, 0);
-INSERT INTO heritage_corpus VALUES('organisation', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('attest', 0, 0.5, 0.5, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('reflect', 0, 0.142857142857143, 0, 0.142857142857143, 0, 0.428571428571429, 0, 0, 0.285714285714286, 0);
-INSERT INTO heritage_corpus VALUES('dynamic', 0, 0.5, 0, 0, 0, 0, 0, 0, 0.5, 0);
-INSERT INTO heritage_corpus VALUES('Asian', 0, 0.2, 0, 0.4, 0, 0, 0, 0, 0.4, 0);
-INSERT INTO heritage_corpus VALUES('mainland', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Korean', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Peninsula', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Archipelago', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('sense', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('identity', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('contribute', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('formation', 0, 0.5, 0, 0, 0, 0, 0, 0, 0.5, 0);
-INSERT INTO heritage_corpus VALUES('flowering', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('capital', 0, 0, 0.5, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('heritage', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Ryukyuan', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Kingdom', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('flourish', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('special', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('political', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('environment', 0, 0, 0.4, 0.2, 0, 0.2, 0, 0, 0.2, 0);
-INSERT INTO heritage_corpus VALUES('give', 0, 0, 0.5, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('quality', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('associated', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('testimony', 0, 0, 0.666666666666667, 0.333333333333333, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('more', 0, 0, 0.5, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('year', 0, 0, 0.5, 0, 0, 0.25, 0.25, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('metal', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('mining', 0, 0, 0.666666666666667, 0.333333333333333, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('system', 0, 0, 0.333333333333333, 0, 0, 0, 0, 0, 0.666666666666667, 0);
-INSERT INTO heritage_corpus VALUES('small-scale', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('labor-intensive', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('unit', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('cover', 0, 0, 0.333333333333333, 0, 0, 0, 0, 0, 0.666666666666667, 0);
-INSERT INTO heritage_corpus VALUES('entire', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('range', 0, 0, 0.25, 0, 0, 0, 0, 0, 0.5, 0.25);
-INSERT INTO heritage_corpus VALUES('skill', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('dig', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('refining', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('isolation', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Edo', 0, 0, 0.5, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Period', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('impede', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('couple', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('exhaustion', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('viable', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('silver-ore', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('cessation', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('activity', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('traditional', 0, 0, 0.333333333333333, 0.333333333333333, 0, 0.333333333333333, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('area', 0, 0, 0.142857142857143, 0, 0, 0, 0.142857142857143, 0, 0.571428571428571, 0.142857142857143);
-INSERT INTO heritage_corpus VALUES('second', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('half', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('leave', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('well-preserved', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('archaeological', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('trace', 0, 0, 0.5, 0, 0.5, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('majestic', 0, 0, 0.5, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Fujisan', 0, 0, 0.5, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('solitary', 0, 0, 0.5, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('strato-volcano', 0, 0, 0.5, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('intermittent', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('volcanic', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('inspire', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('day', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('worship-', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('ascent', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('peak', 0, 0, 0.25, 0.25, 0, 0, 0.25, 0, 0.25, 0);
-INSERT INTO heritage_corpus VALUES('pilgrimage', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('sacred', 0, 0, 0.4, 0, 0, 0.6, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('low', 0, 0, 0.333333333333333, 0, 0, 0, 0, 0, 0.666666666666667, 0);
-INSERT INTO heritage_corpus VALUES('slope', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('pilgrim', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('aspire', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('imbue', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('power', 0, 0, 0.5, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('possess', 0, 0, 0.5, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('god', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('buddha', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('believe', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('reside', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('association', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('deep', 0, 0, 0.5, 0, 0, 0, 0, 0, 0.5, 0);
-INSERT INTO heritage_corpus VALUES('adoration', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('countless', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('depict', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('see', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('perfect', 0, 0, 0.666666666666667, 0.333333333333333, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('gratitude', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('bounty', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('emphasise', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('co-existence', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('series', 0, 0, 0.5, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('living', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('veneration', 0, 0, 0.5, 0, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('pass', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('preserve', 0, 0, 0.25, 0.5, 0.25, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('intact', 0, 0, 0.25, 0.25, 0.25, 0.25, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('chronological', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('record', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('latter', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('end', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('vast', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('quantity', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('precious', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('votive', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('offering', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('direct', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('cease', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('AD', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('member', 0, 0, 0.5, 0, 0, 0, 0, 0, 0.5, 0);
-INSERT INTO heritage_corpus VALUES('Munakata', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('clan', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('instrumental', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('establish', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('safeguard', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Islandin', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Three', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Female', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Deities', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('distinct', 0, 0, 0.5, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Taisha', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Okitsu-miya', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Nakatsu-miya', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Oshima', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Hetsu-miya', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('�gdistant', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('worship�h', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('exemplify', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('open', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('view', 0, 0, 0.5, 0.5, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Kyushu', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('culmination', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('castle', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('feature', 0, 0, 0, 0.5, 0, 0, 0.5, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('adaptation', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Chinese', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('layout', 0, 0, 0, 0.666666666666667, 0.333333333333333, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('indigenous', 0, 0, 0, 0.333333333333333, 0, 0.666666666666667, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('assemblage', 0, 0, 0, 0.5, 0, 0, 0, 0, 0.5, 0);
-INSERT INTO heritage_corpus VALUES('high', 0, 0, 0, 0.166666666666667, 0, 0, 0.166666666666667, 0, 0.5, 0.166666666666667);
-INSERT INTO heritage_corpus VALUES('expression', 0, 0, 0, 0.666666666666667, 0, 0.333333333333333, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('material', 0, 0, 0, 0.333333333333333, 0.666666666666667, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('pre-modern', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('village', 0, 0, 0, 0.5, 0.5, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Shirakawa-go', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Gokayama', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('settlement', 0, 0, 0, 0.5, 0.5, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('raison', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('d�fetre', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('accurate', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('reconstruction', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('late', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('12th', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('13th', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('type', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('integrate', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('surrounding', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('physical', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('manifestation', 0, 0, 0, 0.333333333333333, 0.333333333333333, 0.333333333333333, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('humankind�fs', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Imperial', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Palace', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('illustration', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('apply', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Gongen-zukuristyle', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('mausoleum', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Toshogu', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Taiyu-in', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Reibyo', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('exert', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('ingenuity', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('creativity', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('architect', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('decorator', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('reveal', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('distinguished', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('related', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('integrated', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('ensemble', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('extent', 0, 0, 0, 0.25, 0.25, 0, 0, 0, 0.5, 0);
-INSERT INTO heritage_corpus VALUES('plant', 0, 0, 0, 0.166666666666667, 0, 0, 0, 0, 0.666666666666667, 0.166666666666667);
-INSERT INTO heritage_corpus VALUES('initial', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('deliberate', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('adoption', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('spread', 0, 0, 0, 0.5, 0, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('method', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Far', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('eminent', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('foreign', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('local', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('key', 0, 0, 0, 0.5, 0, 0, 0.5, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('iron', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('steel', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('shipbuilding', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('coal', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('achievement', 0, 0, 0, 0.333333333333333, 0, 0.666666666666667, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('first', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('non-Western', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('industrialize', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('rapid', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('distinctive', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('industrialisation', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('innovation', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('considerable', 0, 0, 0, 0, 1, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('significance', 0, 0, 0, 0, 0.25, 0.25, 0.25, 0, 0, 0.25);
-INSERT INTO heritage_corpus VALUES('structure', 0, 0, 0, 0, 1, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('drastic', 0, 0, 0, 0, 1, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('evidence', 0, 0, 0, 0, 0.5, 0, 0, 0, 0.5, 0);
-INSERT INTO heritage_corpus VALUES('mine', 0, 0, 0, 0, 1, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('smelt', 0, 0, 0, 0, 1, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('refine', 0, 0, 0, 0, 1, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('transportation', 0, 0, 0, 0, 1, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('route', 0, 0, 0, 0, 1, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('port', 0, 0, 0, 0, 1, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('facility', 0, 0, 0, 0, 1, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Site', 0, 0, 0, 0, 1, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('conceal', 0, 0, 0, 0, 1, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('reclaim', 0, 0, 0, 0, 1, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('relict', 0, 0, 0, 0, 1, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('include', 0, 0, 0, 0, 0.166666666666667, 0, 0.166666666666667, 0, 0.166666666666667, 0.5);
-INSERT INTO heritage_corpus VALUES('relate', 0, 0, 0, 0, 1, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('dramatic', 0, 0, 0, 0, 1, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('land-uses', 0, 0, 0, 0, 1, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('universal', 0, 0, 0, 0, 0.5, 0.5, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('promotion', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Prince', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Shotokumarks', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('stage', 0, 0, 0, 0, 0, 0.5, 0, 0, 0.5, 0);
-INSERT INTO heritage_corpus VALUES('zone', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Hiroshima', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Peace', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Memorial', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Genbaku', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Dome', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('stark', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('powerful', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('symbol', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('peace', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('follow', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('unleash', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('destructive', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('force', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('create', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('humankind', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('life', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('root', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('shintoism', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('polytheistic', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('clue', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('continuing', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('religion', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('associate', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('perception', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('man', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('meaning', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('practice', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('much', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('alive', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('today', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('constitute', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('ancestor', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('age', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('established', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('persistent', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('well-documented', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Gardens', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('diffusion', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('ethos', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Amida', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Utmost', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Bliss', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('remain', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('complex', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('symbolic', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('earth', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('image', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('rise', 0, 0, 0, 0, 0, 0.5, 0.5, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('lake', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('font', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('inspiration', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('poetry', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('prose', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('19th-century', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Ukiyo-e', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('print', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Katsushika', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Hokusai', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Utagawa', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Hiroshige', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('allow', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('appreciate', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('know', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('theory', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('twentieth', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('�gNew', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Spirit�h', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('synthesis', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('painting', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('sculpture', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('materialize', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('relay', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('International', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Congress', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Architecture', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('CIAM', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('attempt', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('invent', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('modernize', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('respond', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('contribution', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('exemplary', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('moment', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('sum', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('build', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('write', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('proposal', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('disseminate', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Yakushima', 0, 0, 0, 0, 0, 0, 0.75, 0, 0.25, 0);
-INSERT INTO heritage_corpus VALUES('small', 0, 0, 0, 0, 0, 0, 0.5, 0, 0.25, 0.25);
-INSERT INTO heritage_corpus VALUES('boast', 0, 0, 0, 0, 0, 0, 1, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('m', 0, 0, 0, 0, 0, 0, 1, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('gradient', 0, 0, 0, 0, 0, 0, 1, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('core', 0, 0, 0, 0, 0, 0, 1, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('seacoast', 0, 0, 0, 0, 0, 0, 1, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('property', 0, 0, 0, 0, 0, 0, 0.142857142857143, 0, 0.571428571428571, 0.285714285714286);
-INSERT INTO heritage_corpus VALUES('home', 0, 0, 0, 0, 0, 0, 1, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('number', 0, 0, 0, 0, 0, 0, 0.2, 0, 0, 0.8);
-INSERT INTO heritage_corpus VALUES('diameter', 0, 0, 0, 0, 0, 0, 1, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('cedar', 0, 0, 0, 0, 0, 0, 1, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('tree', 0, 0, 0, 0, 0, 0, 1, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('thousand', 0, 0, 0, 0, 0, 0, 1, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('old', 0, 0, 0, 0, 0, 0, 1, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('spectacular', 0, 0, 0, 0, 0, 0, 1, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('individual', 0, 0, 0, 0, 0, 0, 1, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('specie', 0, 0, 0, 0, 0, 0, 0.0909090909090909, 0, 0.272727272727273, 0.636363636363636);
-INSERT INTO heritage_corpus VALUES('contain', 0, 0, 0, 0, 0, 0, 0.25, 0, 0.75, 0);
-INSERT INTO heritage_corpus VALUES('last', 0, 0, 0, 0, 0, 0, 0.5, 0, 0.5, 0);
-INSERT INTO heritage_corpus VALUES('good', 0, 0, 0, 0, 0, 0, 1, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('ecosystem', 0, 0, 0, 0, 0, 0, 0.1, 0, 0.9, 0);
-INSERT INTO heritage_corpus VALUES('dominate', 0, 0, 0, 0, 0, 0, 0.5, 0, 0.5, 0);
-INSERT INTO heritage_corpus VALUES('superb', 0, 0, 0, 0, 0, 0, 1, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('valuable', 0, 0, 0, 0, 0, 0, 0.5, 0, 0.5, 0);
-INSERT INTO heritage_corpus VALUES('biological', 0, 0, 0, 0, 0, 0, 1, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('scientific', 0, 0, 0, 0, 0, 0, 0.5, 0, 0.5, 0);
-INSERT INTO heritage_corpus VALUES('Shirakami-Sanchi', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('beech', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('accompany', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('diverse', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('vegetation', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('escape', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('simplification', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('earths�f', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('glacial', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('shift', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('south', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('undisturbed', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('pristine', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('climax', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('wilderness', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('third', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('Shirakami', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('comprise', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('maze', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('steep', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('side', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('hill', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('summit', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('condition', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('wild', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('rare', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('eastern', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('protected', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('unmodified', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('extrinsic', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('set', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('populated', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('long-inhabited', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('relic', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('cool-temperate', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('northern', 0, 0, 0, 0, 0, 0, 0, 0, 0.75, 0.25);
-INSERT INTO heritage_corpus VALUES('genus', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('dominant', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('hemisphere', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('Siebold�fs', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('Fagus', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('crenata', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('mono-specific', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('canopy', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('species', 0, 0, 0, 0, 0, 0, 0, 0, 0.5, 0.5);
-INSERT INTO heritage_corpus VALUES('black', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('woodpecker', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('Dryocopus', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('Martius', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('serow', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('Capricornis', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('Crispus', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('Ursus', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('thibetanus', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('japonica', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('macaque', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('Macaca', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('fuscata', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('dwarf', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('bamboo', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('Sasa', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('kurilensis', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('climate', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('heavy-snow', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('ongoing', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('succession', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('community', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('animal', 0, 0, 0, 0, 0, 0, 0, 0, 0.5, 0.5);
-INSERT INTO heritage_corpus VALUES('group', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('depend', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('study', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('terrestrial', 0, 0, 0, 0, 0, 0, 0, 0, 0.666666666666667, 0.333333333333333);
-INSERT INTO heritage_corpus VALUES('ecology', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('Eurasian', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('long-term', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('monitoring', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('?a', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('characteristic', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('region', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('degree', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('north', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('latitude', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('remnant', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('warm-temperate', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('primeval', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('reduce', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('extend', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('altitudinal', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('sequence', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('coast', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('evolutionary', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('biology', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('biogeography', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('interaction', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('lowland', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('upland', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('hydrology', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('Shiretoko', 0, 0, 0, 0, 0, 0, 0, 0, 0.333333333333333, 0.666666666666667);
-INSERT INTO heritage_corpus VALUES('marine', 0, 0, 0, 0, 0, 0, 0, 0, 0.333333333333333, 0.666666666666667);
-INSERT INTO heritage_corpus VALUES('extraordinary', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('productivity', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('seasonal', 0, 0, 0, 0, 0, 0, 0, 0, 0.5, 0.5);
-INSERT INTO heritage_corpus VALUES('ice', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('occur', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('ecological', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('phytoplankton', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('bloom', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('nutrient', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('supply', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('melt', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('ocean', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('enter', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('circulation', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('current', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('food', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('web', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('start', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('involve', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('fish', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('bird', 0, 0, 0, 0, 0, 0, 0, 0, 0.333333333333333, 0.666666666666667);
-INSERT INTO heritage_corpus VALUES('mammal', 0, 0, 0, 0, 0, 0, 0, 0, 0.5, 0.5);
-INSERT INTO heritage_corpus VALUES('river', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('rich', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('Southeast', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('Northeast', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('percentage', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('endemic', 0, 0, 0, 0, 0, 0, 0, 0, 0.666666666666667, 0.333333333333333);
-INSERT INTO heritage_corpus VALUES('selected', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('taxonomic', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('flora', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('active', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('speciation', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('Ogasawara', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('Islands', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('on-going', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('adaptive', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('radiation', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('land', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('snail', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('fauna', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('fine-scale', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('archipelago', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('diversification', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('enhance', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('extinction', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('rate', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('taxon', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('combination', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('concentration', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('endemism', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('account', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('show', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('level', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('vascular', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('importance', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('southern', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('Honshu', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('support', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('endangered', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('Blackiston�fs', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('Fish', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('owl', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('Viola', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('kitamiana', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('recorded', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('density', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('brown', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('population', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('habitat', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('threaten', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('migratory', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('salmonid', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('encompass', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('many', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('watershed', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('Pacific', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('salmonids', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('White', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('spotted', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('charr', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('masu', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('salmon', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('chum', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('pink', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('southernmost', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('run', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('Dolly', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('varden', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('Steller�fs', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('lion', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('Spotted', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('Seal', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('Killer', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('Whale', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('minke', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('Sperm', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('Dall�fs', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('Porpoise', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('Fin', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
+Japan : 21
+century : 19
+Japanese : 18
+site : 18
+architectural : 17
+outstanding : 17
+architecture : 16
+forest : 15
+property : 14
+shrine : 14
+temple : 14
+example : 13
+work : 13
+process : 11
+specie : 11
+Corbusier : 10
+Le : 10
+building : 10
+culture : 10
+development : 10
+ecosystem : 10
+form : 10
+result : 10
+worship : 10
+Asia : 9
+cultural : 9
+industrial : 9
+mountain : 9
+sea : 9
+tradition : 9
+Island : 8
+early : 8
+exceptional : 8
+garden : 8
+important : 8
+influence : 8
+monument : 8
+religious : 8
+Buddhism : 7
+Buddhist : 7
+area : 7
+centre : 7
+change : 7
+illustrate : 7
+island : 7
+nature : 7
+provide : 7
+reflect : 7
+survive : 7
+unique : 7
+world : 7
+Fujisan : 6
+ancient : 6
+bear : 6
+demonstrate : 6
+design : 6
+high : 6
+include : 6
+other : 6
+period : 6
+plant : 6
+ritual : 6
+Asian : 5
+East : 5
+Okinoshima : 5
+Shinto : 5
+Western : 5
+beech : 5
+economic : 5
+environment : 5
+evolutionary : 5
+interchange : 5
+landscape : 5
+large : 5
+number : 5
+production : 5
+profound : 5
+represent : 5
+sacred : 5
+social : 5
+spiritual : 5
+style : 5
+technology : 5
+19th : 4
+Hiraizumi : 4
+Japan�fs : 4
+Kii : 4
+Land : 4
+Modern : 4
+Mountains : 4
+Nara : 4
+Nikko : 4
+Pure : 4
+Whale : 4
+Yakushima : 4
+art : 4
+aspect : 4
+base : 4
+central : 4
+combine : 4
+contain : 4
+develop : 4
+ensemble : 4
+evolution : 4
+evolve : 4
+extent : 4
+habitat : 4
+history : 4
+human : 4
+idea : 4
+intact : 4
+natural : 4
+northern : 4
+object : 4
+peak : 4
+preserve : 4
+range : 4
+role : 4
+significance : 4
+significant : 4
+small : 4
+specific : 4
+such : 4
+technological : 4
+time : 4
+year : 4
+20th : 3
+9th : 3
+Europe : 3
+Islands : 3
+Itsukushima-jinja : 3
+Movement : 3
+Munakata : 3
+Ogasawara : 3
+Shiretoko : 3
+Tomioka : 3
+achievement : 3
+activity : 3
+adaptive : 3
+beauty : 3
+become : 3
+bird : 3
+concept : 3
+cool-temperate : 3
+country : 3
+cover : 3
+decisive : 3
+deposit : 3
+different : 3
+ecological : 3
+endemic : 3
+exchange : 3
+exhibit : 3
+expression : 3
+find : 3
+global : 3
+historic : 3
+ice : 3
+impact : 3
+indigenous : 3
+introduction : 3
+land : 3
+late : 3
+layout : 3
+low : 3
+main : 3
+manifestation : 3
+manner : 3
+marine : 3
+masterpiece : 3
+material : 3
+mining : 3
+modern : 3
+new : 3
+people : 3
+perfect : 3
+place : 3
+present : 3
+radiation : 3
+salmon : 3
+scenic : 3
+setting : 3
+several : 3
+silver : 3
+snail : 3
+study : 3
+system : 3
+take : 3
+technique : 3
+terrestrial : 3
+testimony : 3
+traditional : 3
+transfer : 3
+unprecedented : 3
+value : 3
+vegetation : 3
+witness : 3
+17th : 2
+4th : 2
+China : 2
+Edo : 2
+Ginzan : 2
+Horyu-ji : 2
+Industrial : 2
+Iwami : 2
+Korea : 2
+Kyoto : 2
+Mine : 2
+Oshima : 2
+Revolution : 2
+Ryukyu : 2
+Sacred : 2
+Shintoism : 2
+Silver : 2
+abundant : 2
+adapt : 2
+adaptation : 2
+aesthetic : 2
+animal : 2
+archaeological : 2
+artistic : 2
+assemblage : 2
+associate : 2
+attest : 2
+birth : 2
+black : 2
+bloom : 2
+capital : 2
+cedar : 2
+city : 2
+climate : 2
+comprise : 2
+construction : 2
+continent : 2
+couple : 2
+creation : 2
+deep : 2
+distinct : 2
+distribution : 2
+dominate : 2
+dynamic : 2
+element : 2
+emergence : 2
+endangered : 2
+endemism : 2
+evidence : 2
+evident : 2
+feature : 2
+formation : 2
+fusion : 2
+genius : 2
+give : 2
+great : 2
+group : 2
+half : 2
+hemisphere : 2
+image : 2
+importance : 2
+impressive : 2
+inspire : 2
+interaction : 2
+key : 2
+language : 2
+last : 2
+latitude : 2
+link : 2
+local : 2
+long : 2
+ltsukushima-jinja : 2
+majestic : 2
+make : 2
+mammal : 2
+man : 2
+mass : 2
+member : 2
+more : 2
+need : 2
+ocean : 2
+offering : 2
+old : 2
+ongoing : 2
+origin : 2
+particular : 2
+past : 2
+perform : 2
+phytoplankton : 2
+planning : 2
+play : 2
+political : 2
+polity : 2
+possess : 2
+power : 2
+pristine : 2
+rare : 2
+raw : 2
+reach : 2
+reflection : 2
+region : 2
+relationship : 2
+religion : 2
+response : 2
+rise : 2
+scientific : 2
+seasonal : 2
+series : 2
+set : 2
+settlement : 2
+silk : 2
+solitary : 2
+south-east : 2
+speciation : 2
+species : 2
+spread : 2
+stage : 2
+strato-volcano : 2
+subsequent : 2
+successful : 2
+succession : 2
+support : 2
+technical : 2
+trace : 2
+turn : 2
+understand : 2
+understanding : 2
+undisturbed : 2
+universal : 2
+valuable : 2
+veneration : 2
+view : 2
+village : 2
+warm-temperate : 2
+watershed : 2
+wilderness : 2
+wood : 2
+12th : 1
+13th : 1
+16th : 1
+19th-century : 1
+8th : 1
+?a : 1
+AD : 1
+Age : 1
+America : 1
+Amida : 1
+Ancient : 1
+Archipelago : 1
+Architecture : 1
+Area : 1
+Blackiston�fs : 1
+Bliss : 1
+CIAM : 1
+Capricornis : 1
+Chinese : 1
+Chuson-ji : 1
+Congress : 1
+Crispus : 1
+Dall�fs : 1
+Deities : 1
+Discovery : 1
+Dolly : 1
+Dome : 1
+Dryocopus : 1
+Eurasian : 1
+Fagus : 1
+Far : 1
+Female : 1
+Fin : 1
+Fish : 1
+French : 1
+Gardens : 1
+Genbaku : 1
+Gokayama : 1
+Gongen-zukuristyle : 1
+Hetsu-miya : 1
+Himeji-jo : 1
+Hiroshige : 1
+Hiroshima : 1
+Hokusai : 1
+Honshu : 1
+Imperial : 1
+International : 1
+Islandin : 1
+Kamakura : 1
+Katsushika : 1
+Killer : 1
+Kingdom : 1
+Korean : 1
+Kyushu : 1
+Macaca : 1
+Martius : 1
+Meiji : 1
+Memorial : 1
+Nakatsu-miya : 1
+Northeast : 1
+Okitsu-miya : 1
+Pacific : 1
+Palace : 1
+Peace : 1
+Peninsula : 1
+Period : 1
+Porpoise : 1
+Prince : 1
+Reibyo : 1
+Ryukyuan : 1
+Sasa : 1
+Seal : 1
+Shirakami : 1
+Shirakami-Sanchi : 1
+Shirakawa-go : 1
+Shotokumarks : 1
+Siebold�fs : 1
+Site : 1
+Sites : 1
+Southeast : 1
+Sperm : 1
+Spirit�h : 1
+Spotted : 1
+Steller�fs : 1
+Taisha : 1
+Taiyu-in : 1
+Three : 1
+Toshogu : 1
+Ukiyo-e : 1
+Ursus : 1
+Utagawa : 1
+Utmost : 1
+Viola : 1
+White : 1
+accompany : 1
+account : 1
+accurate : 1
+active : 1
+adopt : 1
+adoption : 1
+adoration : 1
+advent : 1
+age : 1
+alive : 1
+allow : 1
+altitudinal : 1
+ancestor : 1
+appeal : 1
+apply : 1
+appreciate : 1
+archipelago : 1
+architect : 1
+aristocratic : 1
+ascent : 1
+aspire : 1
+associated : 1
+association : 1
+attempt : 1
+autonomous : 1
+backdrop : 1
+background : 1
+bamboo : 1
+basis : 1
+beginning : 1
+believe : 1
+biogeography : 1
+biological : 1
+biology : 1
+boast : 1
+bounty : 1
+break : 1
+brown : 1
+brutalism : 1
+buddha : 1
+build : 1
+canopy : 1
+case : 1
+castle : 1
+cease : 1
+certain : 1
+cessation : 1
+challenge : 1
+characteristic : 1
+charr : 1
+chronological : 1
+chum : 1
+circulation : 1
+clan : 1
+climax : 1
+clue : 1
+co-existence : 1
+coal : 1
+coast : 1
+combination : 1
+come : 1
+commercial : 1
+community : 1
+complex : 1
+conceal : 1
+concentration : 1
+condition : 1
+configuration : 1
+considerable : 1
+constitute : 1
+context : 1
+continuing : 1
+contribute : 1
+contribution : 1
+core : 1
+countless : 1
+create : 1
+creative : 1
+creativity : 1
+crenata : 1
+culmination : 1
+current : 1
+date : 1
+day : 1
+decoration : 1
+decorator : 1
+degree : 1
+deliberate : 1
+density : 1
+depend : 1
+depict : 1
+destructive : 1
+diameter : 1
+diffusion : 1
+dig : 1
+direct : 1
+disseminate : 1
+distinctive : 1
+distinguished : 1
+diverse : 1
+diversification : 1
+domestic : 1
+dominant : 1
+dramatic : 1
+drastic : 1
+dwarf : 1
+d�fetre : 1
+earth : 1
+earths�f : 1
+eastern : 1
+ecology : 1
+effect : 1
+effective : 1
+eminent : 1
+emphasise : 1
+enable : 1
+encompass : 1
+end : 1
+enhance : 1
+enshrine : 1
+enter : 1
+entire : 1
+equipment : 1
+escape : 1
+establish : 1
+established : 1
+ethos : 1
+excellent : 1
+exemplary : 1
+exemplify : 1
+exert : 1
+exhaustion : 1
+extend : 1
+extinction : 1
+extraordinary : 1
+extrinsic : 1
+facility : 1
+farming : 1
+fauna : 1
+feudal : 1
+field : 1
+fine-scale : 1
+first : 1
+fish : 1
+flora : 1
+flourish : 1
+flowering : 1
+follow : 1
+font : 1
+food : 1
+force : 1
+foreground : 1
+foreign : 1
+functional : 1
+fundamental : 1
+fuscata : 1
+future : 1
+general : 1
+genus : 1
+glacial : 1
+god : 1
+good : 1
+gradient : 1
+gratitude : 1
+harmonious : 1
+heavy : 1
+heavy-snow : 1
+heritage : 1
+hill : 1
+home : 1
+humankind : 1
+humankind�fs : 1
+hydrology : 1
+identity : 1
+illustration : 1
+imbue : 1
+impede : 1
+improvement : 1
+individual : 1
+industrialisation : 1
+industrialize : 1
+industry : 1
+information : 1
+ingenuity : 1
+initial : 1
+innovation : 1
+inspiration : 1
+instrumental : 1
+integrate : 1
+integrated : 1
+integration : 1
+intermittent : 1
+international : 1
+introduce : 1
+invaluable : 1
+invent : 1
+invention : 1
+involve : 1
+iron : 1
+isolation : 1
+japonica : 1
+kitamiana : 1
+know : 1
+know-how : 1
+kurilensis : 1
+labor-intensive : 1
+lake : 1
+land-uses : 1
+latter : 1
+lay : 1
+layer : 1
+leave : 1
+level : 1
+life : 1
+line : 1
+lion : 1
+living : 1
+long-inhabited : 1
+long-term : 1
+lowland : 1
+m : 1
+macaque : 1
+mainland : 1
+major : 1
+manmade : 1
+many : 1
+mark : 1
+market : 1
+masu : 1
+materialize : 1
+mausoleum : 1
+maze : 1
+meaning : 1
+melt : 1
+merit : 1
+metal : 1
+method : 1
+middle : 1
+migratory : 1
+mill : 1
+mine : 1
+minke : 1
+model : 1
+modernize : 1
+moment : 1
+monitoring : 1
+mono-specific : 1
+much : 1
+multiple : 1
+nation : 1
+navigation : 1
+non-Western : 1
+north : 1
+nutrient : 1
+occur : 1
+on-going : 1
+open : 1
+organisation : 1
+overall : 1
+owl : 1
+painting : 1
+part : 1
+pass : 1
+peace : 1
+percentage : 1
+perception : 1
+persistent : 1
+phenomenon : 1
+physical : 1
+pilgrim : 1
+pilgrimage : 1
+pink : 1
+pioneer : 1
+plaster : 1
+poetry : 1
+polytheistic : 1
+populated : 1
+population : 1
+port : 1
+powerful : 1
+practice : 1
+pre-modern : 1
+precious : 1
+primeval : 1
+print : 1
+productivity : 1
+promotion : 1
+proposal : 1
+prose : 1
+protected : 1
+purism : 1
+quality : 1
+quantity : 1
+raison : 1
+rapid : 1
+rate : 1
+reclaim : 1
+recognize : 1
+reconstruction : 1
+record : 1
+recorded : 1
+reduce : 1
+refine : 1
+refining : 1
+regional : 1
+reinforce : 1
+relate : 1
+related : 1
+relation : 1
+relay : 1
+relic : 1
+relict : 1
+remain : 1
+remarkable : 1
+remnant : 1
+renew : 1
+reside : 1
+residential : 1
+respond : 1
+rest : 1
+reveal : 1
+revolutionize : 1
+rich : 1
+river : 1
+roof : 1
+root : 1
+route : 1
+run : 1
+safe : 1
+safeguard : 1
+salmonid : 1
+salmonids : 1
+satisfy : 1
+scale : 1
+scene : 1
+sculptural : 1
+sculpture : 1
+seacoast : 1
+second : 1
+secular : 1
+see : 1
+seek : 1
+selected : 1
+sense : 1
+sequence : 1
+sericultural : 1
+sericulture : 1
+serow : 1
+serve : 1
+shared : 1
+shift : 1
+shintoism : 1
+shipbuilding : 1
+short : 1
+show : 1
+side : 1
+silkworm : 1
+silver-ore : 1
+simplification : 1
+skill : 1
+slope : 1
+small-scale : 1
+smelt : 1
+south : 1
+southern : 1
+southernmost : 1
+space : 1
+special : 1
+spectacular : 1
+spotted : 1
+standard : 1
+stark : 1
+start : 1
+steel : 1
+steep : 1
+structure : 1
+subtlety : 1
+sum : 1
+summit : 1
+superb : 1
+supply : 1
+surrounding : 1
+symbol : 1
+symbolic : 1
+synthesis : 1
+taxon : 1
+taxonomic : 1
+theory : 1
+thibetanus : 1
+third : 1
+thousand : 1
+threaten : 1
+today : 1
+trading : 1
+transportation : 1
+tree : 1
+trend : 1
+trinity : 1
+twentieth : 1
+type : 1
+unit : 1
+unleash : 1
+unmodified : 1
+upland : 1
+use : 1
+varden : 1
+variety : 1
+vascular : 1
+vast : 1
+viable : 1
+volcanic : 1
+votive : 1
+way : 1
+web : 1
+well-documented : 1
+well-preserved : 1
+white-painted : 1
+wild : 1
+wooden : 1
+woodpecker : 1
+world-ranking : 1
+worldwide : 1
+worship- : 1
+worship�h : 1
+write : 1
+zone : 1
+�gNew : 1
+�gdistant : 1

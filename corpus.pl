@@ -47,18 +47,16 @@ for($i=0; $i<$fnum; $i++){
 	}
 }
 
-#評価値を正規化
+
+
 foreach (@corpus){
-	@{$_}[0]='\'' . @{$_}[0] . '\'';
+	$str = @{$_}[0];
 	$sum=0;
 	for($i=0; $i<10; $i++) {$sum+=@{$_}[$i+1];}
-	for($i=0; $i<10; $i++) {@{$_}[$i+1]=@{$_}[$i+1]/$sum;}
+	$hash{$str} = $sum;
 }
 
-#コーパスを標準出力
-foreach (@corpus){
-	print "INSERT INTO heritage_corpus VALUES(" . join(", ", @{$_}) . ");\n";
-	#jをカンマで横に並べてi行表示
+for my $key (sort {$hash{$b} <=> $hash{$a} || $a cmp $b} keys %hash) {
+        print $key . " : " . $hash{$key} . "\n";
 }
-
 #end
