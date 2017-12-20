@@ -4,7 +4,9 @@ use utf8;
 
 #binmode(STDOUT,":encoding(utf-8)");
 
-$inputfile='C:\Users\sayak\work\datashape\himejijo_an.txt';
+$num = 1;
+
+$inputfile="C:/Users/sayak/work/datashape/test" . $num . ".txt";
 
 open(IN,$inputfile) || die "$!";
 #binmode(IN,":encoding(euc-jp)");
