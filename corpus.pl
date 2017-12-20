@@ -57,7 +57,7 @@ foreach (@corpus){
 
 #コーパスを標準出力
 foreach (@corpus){
-	print "(" . join(", ", @{$_}) . ")\n";
+	print "INSERT INTO heritage_corpus VALUES(" . join(", ", @{$_}) . ");\n";
 	#jをカンマで横に並べてi行表示
 }
 

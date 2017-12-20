@@ -1,3 +1,18 @@
+DROP TABLE IF EXISTS heritage_corpus;
+CREATE TABLE heritage_corpus ( 
+       word varchar(1024),
+       c1 numeric,
+       c2 numeric,
+       c3 numeric,
+       c4 numeric,
+       c5 numeric,
+       c6 numeric,
+       c7 numeric,
+       c8 numeric,
+       c9 numeric,
+       c10 numeric
+);
+
 INSERT INTO heritage_corpus VALUES('Himeji-jo', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('masterpiece', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('construction', 0.5, 0.5, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -219,7 +234,7 @@ INSERT INTO heritage_corpus VALUES('become', 0, 0.666666666666667, 0, 0.33333333
 INSERT INTO heritage_corpus VALUES('improvement', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('model', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('enshrine', 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Japan�fs', 0, 0.5, 0.25, 0.25, 0, 0, 0, 0, 0, 0);
+INSERT INTO heritage_corpus VALUES('Japan?fs', 0, 0.5, 0.25, 0.25, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('global', 0, 0.666666666666667, 0, 0, 0, 0, 0, 0, 0.333333333333333, 0);
 INSERT INTO heritage_corpus VALUES('raw', 0, 0.5, 0, 0.5, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('silk', 0, 0.5, 0, 0.5, 0, 0, 0, 0, 0, 0);
@@ -436,8 +451,8 @@ INSERT INTO heritage_corpus VALUES('Okitsu-miya', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('Nakatsu-miya', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('Oshima', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('Hetsu-miya', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('�gdistant', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('worship�h', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO heritage_corpus VALUES('?gdistant', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO heritage_corpus VALUES('worship?h', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('exemplify', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('open', 0, 0, 1, 0, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('view', 0, 0, 0.5, 0.5, 0, 0, 0, 0, 0, 0);
@@ -459,7 +474,7 @@ INSERT INTO heritage_corpus VALUES('Shirakawa-go', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0)
 INSERT INTO heritage_corpus VALUES('Gokayama', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('settlement', 0, 0, 0, 0.5, 0.5, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('raison', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('d�fetre', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
+INSERT INTO heritage_corpus VALUES('d?fetre', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('accurate', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('reconstruction', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('late', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
@@ -470,7 +485,7 @@ INSERT INTO heritage_corpus VALUES('integrate', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('surrounding', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('physical', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('manifestation', 0, 0, 0, 0.333333333333333, 0.333333333333333, 0.333333333333333, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('humankind�fs', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
+INSERT INTO heritage_corpus VALUES('humankind?fs', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('Imperial', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('Palace', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('illustration', 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
@@ -605,8 +620,8 @@ INSERT INTO heritage_corpus VALUES('appreciate', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('know', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('theory', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('twentieth', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('�gNew', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
-INSERT INTO heritage_corpus VALUES('Spirit�h', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
+INSERT INTO heritage_corpus VALUES('?gNew', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
+INSERT INTO heritage_corpus VALUES('Spirit?h', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('synthesis', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('painting', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
 INSERT INTO heritage_corpus VALUES('sculpture', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0);
@@ -662,7 +677,7 @@ INSERT INTO heritage_corpus VALUES('diverse', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
 INSERT INTO heritage_corpus VALUES('vegetation', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
 INSERT INTO heritage_corpus VALUES('escape', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
 INSERT INTO heritage_corpus VALUES('simplification', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('earths�f', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
+INSERT INTO heritage_corpus VALUES('earths?f', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
 INSERT INTO heritage_corpus VALUES('glacial', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
 INSERT INTO heritage_corpus VALUES('shift', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
 INSERT INTO heritage_corpus VALUES('south', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
@@ -694,7 +709,7 @@ INSERT INTO heritage_corpus VALUES('northern', 0, 0, 0, 0, 0, 0, 0, 0, 0.75, 0.2
 INSERT INTO heritage_corpus VALUES('genus', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
 INSERT INTO heritage_corpus VALUES('dominant', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
 INSERT INTO heritage_corpus VALUES('hemisphere', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
-INSERT INTO heritage_corpus VALUES('Siebold�fs', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
+INSERT INTO heritage_corpus VALUES('Siebold?fs', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
 INSERT INTO heritage_corpus VALUES('Fagus', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
 INSERT INTO heritage_corpus VALUES('crenata', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
 INSERT INTO heritage_corpus VALUES('mono-specific', 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
@@ -814,7 +829,7 @@ INSERT INTO heritage_corpus VALUES('southern', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
 INSERT INTO heritage_corpus VALUES('Honshu', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
 INSERT INTO heritage_corpus VALUES('support', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
 INSERT INTO heritage_corpus VALUES('endangered', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('Blackiston�fs', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
+INSERT INTO heritage_corpus VALUES('Blackiston?fs', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
 INSERT INTO heritage_corpus VALUES('Fish', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
 INSERT INTO heritage_corpus VALUES('owl', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
 INSERT INTO heritage_corpus VALUES('Viola', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
@@ -843,7 +858,7 @@ INSERT INTO heritage_corpus VALUES('southernmost', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1)
 INSERT INTO heritage_corpus VALUES('run', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
 INSERT INTO heritage_corpus VALUES('Dolly', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
 INSERT INTO heritage_corpus VALUES('varden', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('Steller�fs', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
+INSERT INTO heritage_corpus VALUES('Steller?fs', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
 INSERT INTO heritage_corpus VALUES('lion', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
 INSERT INTO heritage_corpus VALUES('Spotted', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
 INSERT INTO heritage_corpus VALUES('Seal', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
@@ -851,6 +866,6 @@ INSERT INTO heritage_corpus VALUES('Killer', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
 INSERT INTO heritage_corpus VALUES('Whale', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
 INSERT INTO heritage_corpus VALUES('minke', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
 INSERT INTO heritage_corpus VALUES('Sperm', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
-INSERT INTO heritage_corpus VALUES('Dall�fs', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
+INSERT INTO heritage_corpus VALUES('Dall?fs', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
 INSERT INTO heritage_corpus VALUES('Porpoise', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
 INSERT INTO heritage_corpus VALUES('Fin', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1);
