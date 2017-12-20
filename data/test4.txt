@@ -6,3 +6,4 @@ appeal	NN	appeal
 ,	,	,
 both	CC	both
 in	IN	in
+plaster	NN	plaster

@@ -5,4 +5,5 @@ is	VBZ	be
 a	DT	a
 masterpiece	NN	masterpiece
 of	IN	of
+plaster	NN	plaster
 
