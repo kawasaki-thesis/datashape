@@ -57,6 +57,6 @@ foreach (@corpus){
 }
 
 for my $key (sort {$hash{$b} <=> $hash{$a} || $a cmp $b} keys %hash) {
-        print $key . " : " . $hash{$key} . "\n";
+        print "<p>" . $key . " : " . $hash{$key} . "</p>\n";
 }
 #end
